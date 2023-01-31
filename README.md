@@ -1,4 +1,4 @@
-# Kawsar Ahmed - .NET Developer 🚀
+# Kawsar Ahmed -- .NET Developer 🚀
 
 Welcome to my GitHub profile! I am a experienced .NET developer with x years of experience in developing and delivering high-quality software solutions.💼
 
